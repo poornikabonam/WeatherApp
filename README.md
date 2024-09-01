@@ -45,6 +45,7 @@ npm install
 - In the `Weather.js` file, replace the placeholder with your OpenWeatherMap API key:
 ```javascript
 const apiKey = 'YOUR_API_KEY_HERE';
+```
 
 5. **Run the Application: Start the development server by running:**
 ```npm start```
