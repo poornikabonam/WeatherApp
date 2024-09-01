@@ -7,7 +7,6 @@ A simple and elegant weather application built with React that provides current 
 - **Current Weather:** Displays the current weather with details like temperature, weather description, humidity, and wind speed.
 - **5-Day Forecast:** Provides a 5-day weather forecast with clickable cards to view more details for each day.
 - **Interactive UI:** Includes icons and visual elements for a better user experience.
-- **Info Section:** A custom info button that shows a brief description of the PM Accelerator program and a link to the LinkedIn page.
 - **Responsive Design:** The app is responsive and works well on both desktop and mobile devices.
 
 ## Technologies Used
@@ -16,8 +15,6 @@ A simple and elegant weather application built with React that provides current 
 - **Axios**: Promise-based HTTP client for making API requests.
 - **OpenWeatherMap API**: Used for fetching current weather data and 5-day forecasts.
 - **CSS**: For styling the application.
-
-## Installation
 
 ### Prerequisites
 
